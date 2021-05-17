@@ -1,6 +1,7 @@
 # Weedmaps Challenge
 
 Frontend and backend coding challenege.
+[Backend](https://github.com/yizheng1709/weedmaps_challenge)
 
 ## Available Scripts
 
